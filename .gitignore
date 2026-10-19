@@ -1,0 +1,12 @@
+# 编译产物
+analyzer
+analyzer.exe
+*.pdb
+*.o
+*.obj
+
+# CMake 构建目录
+build/
+
+# 运行生成的报告（可随时重新生成）
+out/
